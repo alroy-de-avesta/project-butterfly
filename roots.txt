@@ -5,42 +5,6 @@ These writings are my notes on the world. Perhaps they would appear incandescent
 Thus I declare, let it be known to myself henceforth: that my life would be filled with great turmoil, but it would be more magnificent and more joyful than any man in history! 
 ---
 
-/Taking Notes
-
-1:  
-    Write the name and author of the primary source to take notes on.
-
-2: 
-    Do some skimming and research. 
-    Type out a personalized table of subjects.
-
-3:  
-    Write a broad purpose statement.
-        
-4: 
-    If needed, include a reference delimiter with URL links to images, diagrams, and secondary soures.
-
-5:  
-    Take notes on the text. Skip editor/translator notes.
-    For each concept you encounter in the text, start a "newline package" with this structure:
-    ---
-        name of the concept
-        > a representation
-        : an example
-    ---
-
-6: 
-    List out additional perspectives external to the primary source and any potential objections.
-    ---
-        + an additional perspectives
-        - an objection 
-    ---
-
-7:
-    Write a summary of each "section" (chapter, introduction, appendix), covering the main themes and symbols of the text.
-
----
-
 /Useful Symbols
 
 From r/math:
