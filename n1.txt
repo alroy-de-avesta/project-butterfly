@@ -1,0 +1,60 @@
+Name: Notes 001
+Text: "Critique of Pure Reason"
+Author: Immanuel Kant
+
+---
+
+/Structure
+
+    a priori vs. a posteriori
+    analytic vs. synthetic
+    theoretical sciences of reason
+
+    transcendental aethestics 
+        ideality of space and time
+        metaphysical exposition
+        transcendental exposition 
+        a priori forms of sensible intution
+
+    transcendental logic
+        analytic of concepts
+        understading in judgements
+        function of thought in judgement
+        categories of understanding
+        principles of pure understanding
+        phenomena and noumena
+        refutation of idealism
+        critique of leibniz
+
+    transcendental dialectic:
+        psychology/paralogisms
+            critique of the soul and Descartes
+        cosmology/antinomy
+            dialectics of rational cosmology
+        theology/ideal
+            critique of three arguments for God
+
+    doctrine of method
+        mathematical theory vs philosophy
+        moral argument for God
+        systematic unity of pure reason
+        history of philosophy from the vantage point of pure reason
+
+---
+
+/Purpose
+
+    I must understand its limits (or rather the limits of reason), so I can concentrate my creative energy into actionable fields of discussion and avoid becoming dogmatic or insincere. I also want to read Schopenhauer, who demands that I should understand Kant (and Plato) before engaging with his great work "The World as Will and Representation".
+
+    More generally, Kant would seem to the be greatest philosopher in history, and deserves our time and respect in almost any case. Therefore, I must read him and be sure not to misinterpret him in any way - a feat that would seem impossible, given our differences in time and culture. Still, I must at least attempt to scale the peaks of Kant so that I might understand his general line of thinking at a basic level, if not one that would provide a practical use for my understanding of the world - and will therefore read Kant's other two critiques after this as a matter of assertation and deference.
+
+---
+
+/Reference:
+
+    Kant's taxonomy of transcendental idealism: https://upload.wikimedia.org/wikipedia/commons/1/17/Kant-taxonomy.svg
+    Kant's table of categories: https://upload.wikimedia.org/wikipedia/commons/1/17/Kant-taxonomy.svg
+
+---
+
+/ Notes
